@@ -1,0 +1,41 @@
+{
+  "universal": [
+    "photorealistic",
+    "photograph",
+    "3d render",
+    "anime",
+    "painterly",
+    "watercolor",
+    "sketch",
+    "pencil drawing",
+    "blurry",
+    "out of focus",
+    "low quality",
+    "jpeg artifacts",
+    "watermark",
+    "text",
+    "words",
+    "letters",
+    "numbers",
+    "writing",
+    "signature",
+    "thin lines",
+    "sharp angular edges",
+    "realistic shading",
+    "gradient meshes"
+  ],
+  "characters": [
+    "extra fingers",
+    "extra limbs",
+    "mutated hands",
+    "deformed face",
+    "realistic human proportions",
+    "uncanny valley"
+  ],
+  "composition": [
+    "cluttered",
+    "too many elements",
+    "no focal point",
+    "flat single-layer background"
+  ]
+}
